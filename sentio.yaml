@@ -1,0 +1,14 @@
+project: sui_nfts
+contracts:
+  - chain: sui_mainnet
+    address: "0x9a84b6a7914aedd6741e73cc2ca23cbc77e22ed3c5f884c072a51868fedde45b"
+  - chain: sui_mainnet
+    address: "0xb42dbb7413b79394e1a0175af6ae22b69a5c7cc5df259cd78072b6818217c027"
+  - chain: sui_mainnet
+    address: "0x33a9e4a3089d911c2a2bf16157a1d6a4a8cbd9a2106a98ecbaefe6ed370d7a25"
+  - chain: sui_mainnet
+    address: "0xd5dd28cc24009752905689b2ba2bf90bfc8de4549b9123f93519bb8ba9bf9981"
+  - chain: sui_mainnet
+    address: "0x2949e130ca4dabfe6448173758468a3e45ea3f070e3264f112b51c023f3ecf9f"
+  - chain: sui_mainnet
+    address: "0x484932c474bf09f002b82e4a57206a6658a0ca6dbdb15896808dcd1929c77820"
